@@ -1,0 +1,22 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+.Button {
+  color: rgb(17, 231, 217);
+}
+
+.redBorder{
+  border: 2px solid red !important;
+}
