@@ -18,7 +18,7 @@ function AdminHome() {
             {<Button variant="contained">
                 <Link to="./services">Services</Link>
             </Button>}
-            {/* <Outlet /> */}
+            <Outlet /> 
         </div>
     )
 }
